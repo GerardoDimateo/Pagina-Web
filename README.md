@@ -20,3 +20,7 @@ Como en otros virus que causan neumonía, cuando se transmiten en humanos, el co
 +Secreción y goteo nasal.
 
 +Muerte.
+# Último caso
+“El mundo está viviendo tiempos difíciles, debo anunciar que ayer por la noche se nos hizo presente el caso 21”, así lo anunció el mandatario.
+
+El caso 21 corresponde a un hombre de 54 años, originario de la capital, pero las autoridades todavía no han dado más detalles de cómo adquirió el virus.
